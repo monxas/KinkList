@@ -1,2 +1,2 @@
 # KinkList
-Easily create [kink list](https://monxas.github.io/KinkList/v1.0.3.html)
+Easily create [kink list](https://monxas.github.io/v1.0.3.html)
